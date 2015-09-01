@@ -1,7 +1,6 @@
 {
-  "name": "Personal Website",
-  "description": "A barebones personal website",
-  "repository": "https://github.com/gajewsk2/micahgajewski",
+
+  "repository": "https://github.com/gajewsk2/points",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"]
 }
